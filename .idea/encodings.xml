@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/mew/analyse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/buy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/buy_con.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/eli.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/emdel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/employee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/emreg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/emupd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/emupd_con.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/manager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/re.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/re_con.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/sale.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/sale_con.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/vipdel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/vipreg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/vipupd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mew/vipupd_con.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
